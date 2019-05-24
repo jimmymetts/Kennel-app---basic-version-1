@@ -1,0 +1,59 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "employeeId": null
+    },
+    {
+      "id": 3,
+      "name": "Angus"
+    },
+    {
+      "name": "Eli",
+      "breed": "dalmatian",
+      "employeeId": 4,
+      "id": 4
+    },
+    {
+      "name": "Jake",
+      "breed": "Blue Heeler",
+      "employeeId": 1,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Katie M",
+      "breed": "German Shepherd",
+      "employeeId": 3
+    },
+    {
+      "id": 7,
+      "name": "Rosie M",
+      "breed": "mixed",
+      "employeeId": 3
+    }
+  ]
+}
